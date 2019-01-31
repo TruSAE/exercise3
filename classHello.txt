@@ -1,4 +1,4 @@
-print("FFFFFF")
-print("GGG")
+print("FFFFFF");
+print("GGG");
 print("ddd")
 print("")
