@@ -1,2 +1,2 @@
-print("FFFFFF")
-print("GGG")
+print("FFFFFF");
+print("GGG");
